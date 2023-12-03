@@ -8,8 +8,6 @@ messagingSenderId: process.env.REACT_APP_MESSAGING_SENDERID,
 appId:process.env.REACT_APP_APP_ID , */
 apiKey: "AIzaSyABJCR6lNB0mtdpn4tjuScAN8qfreeKmf4",
 authDomain: "car-rileted-web.firebaseapp.com",
-projectId: "car-rileted-web",
-storageBucket: "car-rileted-web.appspot.com",
 messagingSenderId: "220856313457",
 appId: "1:220856313457:web:26db23edb903b001405dd0"
 
